@@ -11,6 +11,7 @@ mod improved_plain;
 mod parallel_fhe;
 mod plain;
 
+/// test
 /// The number of blocks to be used in the Radix.
 const NUMBER_OF_BLOCKS: usize = 8;
 
